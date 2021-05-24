@@ -17,7 +17,7 @@
      (if (unsat? (verify (assert F))) 'TAUTOLOGY 'CONTIGENCY)]))
 
 
-; define our boolean variables of interest
+; define our boolean variables of interestsf
 (define-symbolic* p q r boolean?)
 
 ; (p → (q → r)) → (¬r → (¬q → ¬p)) CONTINGENCY
