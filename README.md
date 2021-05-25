@@ -24,4 +24,13 @@ I took the approach of applying solve first as this will tell me if a formula is
 
 After we have categorized contradictions we can proceed to verify the formula and see if this returns unsatisfiable. Unsatisfiable in this setting means that no counterexample could be found and thus this formula would be a tautology but if there is a possible counterexample then this formula is indeed a contingency.
 
+# Update 2
 
+Few more hours in. Tried to go over the slides for the course and attempted homework problem 2. I am not very knowledgable of logic but I tried to folloow the slides and use online resources.
+
+I added a pdf of my process and my final solution I came to. 
+It was good to get more comfortable with CNF and what it is. I wrote some notes, that consisted of pretty much copying the slides, but slowly and surely I am understanding things more.
+
+# Plan going forward
+
+I am going to continue to go over course materials and attempt to do some of the graph coloring coding and see what happens in class on wednesday
