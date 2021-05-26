@@ -34,3 +34,12 @@ It was good to get more comfortable with CNF and what it is. I wrote some notes,
 # Plan going forward
 
 I am going to continue to go over course materials and attempt to do some of the graph coloring coding and see what happens in class on wednesday
+
+# Update 3
+
+Ok that didn't work, I can't get the graph code to run as I'm getting a permission error on trying to open a file through racket so that's no good. 
+And I don't understand the first part at all.
+Hopefully we can go over this on Wednesday, but the due date has been extended until Friday so that gives me some time.
+
+
+
