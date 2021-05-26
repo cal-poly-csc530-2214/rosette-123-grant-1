@@ -41,5 +41,11 @@ Ok that didn't work, I can't get the graph code to run as I'm getting a permissi
 And I don't understand the first part at all.
 Hopefully we can go over this on Wednesday, but the due date has been extended until Friday so that gives me some time.
 
+# Update 4
+
+I read through all the introductory slides on propositional basics and am now about to embark on normal forms. I probably should have gone through these slides before trying problem 2 but alas. Hopefully class today will cover the remaining slides on sat solving and then these combined will guide me through some more of the hw.
+
+I feel like I just keep uploading pdfs, but I did rename some of them and added in a notes pdf to keep track of what I've been doing. I remember things better when I write them down so it's mostly definitions and what not. These definitions are important though, because I feel like much of rosette embodies them and uses them throughout the system. (like model in rosette and intepretation in hw)
+
 
 
