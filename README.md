@@ -47,5 +47,12 @@ I read through all the introductory slides on propositional basics and am now ab
 
 I feel like I just keep uploading pdfs, but I did rename some of them and added in a notes pdf to keep track of what I've been doing. I remember things better when I write them down so it's mostly definitions and what not. These definitions are important though, because I feel like much of rosette embodies them and uses them throughout the system. (like model in rosette and intepretation in hw)
 
+# Update 5
+
+Read over all the slides up until hw 1 is due.
+
+The algorithms seem cool and should've implemented them bc logic isn't very fun haha.
+
+I approached problem 6 as I want to code the graph coloring program, but figured I needed to understand the problem better before I did that. I think my work shows my process well, but I'm still challenged in converting it to CNF/answering the last part. I've already spent a long time on this assignment but since we have had so many extensions I wanna try and do the graph coloring.
 
 
