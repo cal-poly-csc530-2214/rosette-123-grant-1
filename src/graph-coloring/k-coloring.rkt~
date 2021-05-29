@@ -17,21 +17,4 @@
 ; Returns a coloring/c if the given graph can 
 ; be colored with k colors.  Otherwise returns #f.
 (define (k-coloring graph k)
-  (define cnf (and
-   ; for every vertex a color should be assigned
-   (andmap (lambda (n) (ormap ?)) graph)
-   ; for every edge no vertices share colors
-   ))
-  (match (solve cnf)
-    [(? interpretation? i) i]
-    [other #f]))
-
-
-#|
-  Graph = list of children of node at location i
-  EX: G = [[1, 2], [2], []]
-      G is a graph who's:
-        0th node has edges out to node 1 and 2
-        1th node has an edge out to 2
-        2th node has no edges out
-|#
+  (error 'k-coloring "not implemented yet!"))

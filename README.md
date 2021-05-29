@@ -55,4 +55,18 @@ The algorithms seem cool and should've implemented them bc logic isn't very fun 
 
 I approached problem 6 as I want to code the graph coloring program, but figured I needed to understand the problem better before I did that. I think my work shows my process well, but I'm still challenged in converting it to CNF/answering the last part. I've already spent a long time on this assignment but since we have had so many extensions I wanna try and do the graph coloring.
 
+# Final Update
+
+I tried to take my work from number 6 to apply to problem 7, but I don't think I have enough understanding of the topic to get much progress on it.
+
+Overall this assignment has been great as the slides were very informative and I enjoyed having actual problems to work on for a change to give me some direction. 
+
+My work on some the problems can be found under problem_x.pdf and my racket code is in the necessary file locations.
+
+# Postmortem
+
+I really wanted to get some more racket written but I just don't think it's gonna happen. I've spent a lot of time on this (lots of extensions) so I think I'm done for now, but want to study the solution when it comes out.
+
+I should have paired on this or other assignments, but this quarter was so hectic for me and I'm just not comfortable in the CSC 5xx setting yet. These are bad excuses but too late, just now I know for next time.
+
 
